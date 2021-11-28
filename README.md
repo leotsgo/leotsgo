@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="Center"> Olá, eu sou o Leo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-<!--
-**leonardodiber/leonardodiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[***click here to see this readme in english***](https://github.com/leonardodiber/leonardodiber/blob/main/README_en.md "***click here to see this readme in english***")
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-leonardodiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardodiber@gmail.com)](mailto:leonardodiber@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de desenvolvimento web interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
+
+- 🌱 Aprofundando os conhecimentos em backend com Node, Docker, mySQL e mongoDB!
+- 👯 Apaixonado pelo universo opensource e ambientes colaborativos
+- 🤔 Curioso sobre blockchain e o universo cripto de forma geral
+- ⚡ ReactJS, Redux, Javascript, Python
+- ⭐ Resolução de problemas, comunicação, empatia
+
+
+### Stats
+<p align="center" >
+<img alt="leonardodiber's github stats" src="https://github-readme-stats.vercel.app/api?username=leonardodiber&show_icons=true&theme=gruvbox"  > </p>
