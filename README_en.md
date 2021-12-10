@@ -2,7 +2,7 @@
 
 [***back to my profile***](https://github.com/leonardodiber "***click here to see this readme in english***")
 
-[![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-leonardodiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardodiber@gmail.com)](mailto:leonardodiber@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leonardodiber)](https://www.t.me/leonardodiber) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-leonardodiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardodiber@gmail.com)](mailto:leonardodiber@gmail.com)
 
 Web Development student passionate about new world changing tech
 
