@@ -16,4 +16,4 @@ Estudante de desenvolvimento web interessado principalmente nas tecnologias que 
 
 ### Stats
 <p align="center" >
-<img alt="leonardodiber's github stats" src="https://github-readme-stats.vercel.app/api?username=leonardodiber&show_icons=true&theme=gruvbox"  > </p>
+<img alt="leonardodiber's github stats" src="https://github-readme-stats.vercel.app/api?username=leonardodiber&show_icons=true&theme=ayu-mirage"  > </p>
