@@ -6,7 +6,6 @@
 
 Estudante de desenvolvimento web interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
 
-- 🌱 Aprofundando os conhecimentos em backend. No momento estudando Node e Databases
 - 💖 Fascinado pela programação no lado do servidor, aprendendo um pouco mais todos os dias
 - 👯 Apaixonado pelo universo opensource e ambientes colaborativos
 - 🤔 Curioso sobre blockchain e o universo cripto de forma geral
