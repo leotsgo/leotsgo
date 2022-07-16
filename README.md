@@ -4,12 +4,12 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leonardodiber)](https://www.t.me/leonardodiber) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-leonardodiber@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardodiber@gmail.com)](mailto:leonardodiber@gmail.com)
 
-Estudante de desenvolvimento web interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
+Desenvolvedor Full Stack, focado no backend e interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
 
 - 💖 Fascinado pela programação no lado do servidor, aprendendo um pouco mais todos os dias
 - 👯 Apaixonado pelo universo opensource e ambientes colaborativos
 - 🤔 Curioso sobre blockchain e o universo cripto de forma geral
-- ⚡ ReactJS, Redux, Javascript, Python
+- ⚡ Javascript, Golang, Ruby, Python, Docker e Kubernetes
 - ⭐ Resolução de problemas, comunicação, empatia
 
 
