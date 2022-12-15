@@ -8,7 +8,6 @@ Desenvolvedor Full Stack, focado no backend e interessado principalmente nas tec
 
 - 💖 Fascinado pela programação no lado do servidor, aprendendo um pouco mais todos os dias
 - 👯 Apaixonado pelo universo opensource e ambientes colaborativos
-- 🤔 Curioso sobre blockchain e o universo cripto de forma geral
 - ⚡ Javascript, Golang, Ruby, Python, Docker e Kubernetes
 - ⭐ Resolução de problemas, comunicação, empatia
 
