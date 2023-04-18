@@ -10,8 +10,3 @@ Desenvolvedor Full Stack, focado no backend e interessado principalmente nas tec
 - 👯 Apaixonado pelo universo opensource e ambientes colaborativos
 - ⚡ Javascript, Golang, Ruby, Python, Docker e Kubernetes
 - ⭐ Resolução de problemas, comunicação, empatia
-
-
-### Stats
-<p align="center" >
-<img alt="leonardodiber's github stats" src="https://github-readme-stats.vercel.app/api?username=leonardodiber&show_icons=true&theme=ayu-mirage&hide_rank=true"  > </p>
