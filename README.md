@@ -2,7 +2,7 @@
 
 [***click here to see this readme in english***](https://github.com/leonardodiber/leonardodiber/blob/main/README_en.md "***click here to see this readme in english***")
 
-[![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leonardodiber)](https://www.t.me/leonardodiber) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-contactme@leodiber.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactme@leodiber.dev)](mailto:contactme@leodiber.dev)
+[![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leonardodiber)](https://www.t.me/leonardodiber) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-contact@leodiber.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactme@leodiber.dev)](mailto:contactme@leodiber.dev)
 
 Desenvolvedor Full Stack, focado no backend e interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
 
