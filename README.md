@@ -4,4 +4,4 @@
 
 Software Engineer turned SRE. Getting things done by living in the command line.
 
-Right now I'm maily focused on honing my DevOps, Cloud, Network and Infrastructure skills without leaving aside software engineering. I love learning, note taking techniques (mainly zettelkasten) and everything that helps me be more productive. If you want to learn a little more about my journey, check my [blog](https://leotsgo.dev) and my pinned project below. 
+Right now I'm maily focused on honing my DevOps, Cloud, Network and Infrastructure skills without leaving aside software engineering. I love learning, note taking techniques (mainly zettelkasten) and everything that helps me be more productive. If you want to learn a little more about my journey, check my [blog](https://leotsgo.dev) and my pinned projects below. 
