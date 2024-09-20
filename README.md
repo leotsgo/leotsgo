@@ -1,12 +1,7 @@
-<h1 align="Center"> Olá, eu sou o Leo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+# Leonardo Bermejo
 
-[***click here to see this readme in english***](https://github.com/leonardodiber/leonardodiber/blob/main/README_en.md "***click here to see this readme in english***")
+[![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leotsgo)](https://www.t.me/leotsgo) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-contact@leodiber.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@leotsgo.dev)](mailto:me@leotsgo.dev)
 
-[![Telegram Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leonardodiber)](https://www.t.me/leonardodiber) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-contact@leodiber.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@leodiber.dev)](mailto:contact@leodiber.dev)
+Software Engineer turned SRE. Getting things done by living in the command line.
 
-Desenvolvedor Full Stack, focado no backend e interessado principalmente nas tecnologias que vão mudar a vida de todas as pessoas!
-
-- 💖 Fascinado pela programação no lado do servidor, aprendendo um pouco mais todos os dias
-- 👯 Apaixonado pelo universo opensource e ambientes colaborativos
-- ⚡ Javascript, Golang, Ruby, Python, Docker e Kubernetes
-- ⭐ Resolução de problemas, comunicação, empatia
+Right now I'm maily focused on honing my DevOps, Cloud, Network and Infrastructure skills without leaving aside software engineering. I love learning, note taking techniques (mainly zettelkasten) and everything that helps me be more productive. If you want to learn a little more about my journey, check my [blog](https://leotsgo.dev) and my pinned project below. 
