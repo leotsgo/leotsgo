@@ -1,7 +1,22 @@
 # Leonardo Bermejo
 
-[![Telegram Badge](https://img.shields.io/badge/-leotsgo-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/leotsgo)](https://www.t.me/leotsgo) [![Linkedin Badge](https://img.shields.io/badge/-leonardodiber-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardodiber/)](https://www.linkedin.com/in/leonardodiber/) [![Gmail Badge](https://img.shields.io/badge/-me@leotsgo.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@leotsgo.dev)](mailto:me@leotsgo.dev)
+Backend engineer building software that moves money. Four years across a digital bank
+(PagBank), a retail data platform (Dito), and a large-scale payments operation (SevenX).
 
-Software Engineer turned SRE. Getting things done by living in the command line.
+**Some work I'm proud of**
 
-Right now I'm maily focused on honing my DevOps, Cloud, Network and Infrastructure skills without leaving aside software engineering. I love learning, note taking techniques (mainly zettelkasten) and everything that helps me be more productive. If you want to learn a little more about my journey, check my [blog](https://leotsgo.dev) and my pinned projects below. 
+- Led a regulatory compliance system that sweeps 8 million users biweekly for government
+  restrictions, with a full audit trail
+- Cut the p99 latency of a service handling 10M+ requests a day from 30s to 50ms,
+  mostly by rewriting its database queries
+- Built a cashback engine that cut costs 60% for ~50k users, roughly R$6 million a month
+- Ran observability for dozens of accounting and regulatory applications of a core
+  banking platform
+
+**Stack:** Go · TypeScript · Python · AWS · Kubernetes
+
+**How I work with AI:** Claude and other LLMs are part of my daily flow. I break the
+requirement down, the model drafts, I review, test, and ship. Saves real time without
+replacing the thinking.
+
+**Contact:** [linkedin.com/in/leonardodiber](https://linkedin.com/in/leonardodiber) · me@leotsgo.dev
